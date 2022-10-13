@@ -1,6 +1,8 @@
+(https://media-exp1.licdn.com/dms/image/D5603AQECRpcLyQMmrQ/profile-displayphoto-shrink_200_200/0/1665593746452?e=1671062400&v=beta&t=5Mnv2SMTXl-LgPtsLxAqSkBqjJ5aSjvGkNdIjihwxmk)
+
 ### Hi there 👋, i'm khan imran
 #### web developer
-![web developer](https://media-exp1.licdn.com/dms/image/D5603AQECRpcLyQMmrQ/profile-displayphoto-shrink_200_200/0/1665593746452?e=1671062400&v=beta&t=5Mnv2SMTXl-LgPtsLxAqSkBqjJ5aSjvGkNdIjihwxmk)
+![web developer]
 
 A Web Developer is a professional who is responsible for the design and construction of websites. They ensure that sites meet user expectations by ensuring they look good, run smoothly and offer easy access points with no loading issues between pages or error messages.
 
